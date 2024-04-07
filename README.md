@@ -3,7 +3,8 @@
 ## Overview
 Hackcarpathia
 
-[![Alt Text](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([https://drive.google.com/uc?export=download&id=FILE_ID](https://drive.google.com/file/d/1EKkZkYA_v2MM8JoqV5MYg5IBGfFCT54T/view?usp=sharing))
+
+https://github.com/Jakub0627/Wielkie-Rozczarowanie/assets/33319185/57c389db-e39c-4080-8cb4-898d21bf9ba8
 
 
 
