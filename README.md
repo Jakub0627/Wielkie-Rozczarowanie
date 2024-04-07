@@ -7,14 +7,15 @@ Hackcarpathia
 <html>
 <body>
   
-  <iframe src="[url video in google drive/preview](https://drive.google.com/file/d/1EKkZkYA_v2MM8JoqV5MYg5IBGfFCT54T/view?usp=drive_link)](https://drive.google.com/file/d/1EKkZkYA_v2MM8JoqV5MYg5IBGfFCT54T/view)" ></iframe>
+  <iframe src="https://drive.google.com/file/d/1EKkZkYA_v2MM8JoqV5MYg5IBGfFCT54T/preview" ></iframe>
   
-  <!--aloow full screen add tag -->
+  <!--allow full screen add tag -->
   
 <iframe allowfullscreen="allowfullscreen" src="your_page_url/preview" ></iframe>
 
 </body>
 </html>
+
 
 
 Flex your gray matter and show that you're able to overcome our challenges.
