@@ -3,19 +3,7 @@
 ## Overview
 Hackcarpathia
 
-<!DOCTYPE html>
-<html>
-<body>
-  
-  <iframe src="https://drive.google.com/file/d/1EKkZkYA_v2MM8JoqV5MYg5IBGfFCT54T/preview" ></iframe>
-  
-  <!--allow full screen add tag -->
-  
-<iframe allowfullscreen="allowfullscreen" src="your_page_url/preview" ></iframe>
-
-</body>
-</html>
-
+[Link do filmu w Google Drive](https://drive.google.com/file/d/1EKkZkYA_v2MM8JoqV5MYg5IBGfFCT54T/view?usp=sharing)
 
 
 Flex your gray matter and show that you're able to overcome our challenges.
