@@ -14,7 +14,7 @@ This project aims to enable students or lecturers to create transcripts from onl
 ## Files
 
 ### main.py
-This program is a GUI application that processes video and audio files. It extracts slides from the video, creates a PowerPoint presentation, cuts the video into segments, and transcribes the audio into text files.
+This program is a GUI application that processes video and audio files.
 
 ### audio_recognition.py
 This script provides functions for converting audio files to WAV format and performing speech recognition on them using the Google Speech Recognition API.
