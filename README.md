@@ -3,7 +3,8 @@
 ## Overview
 Hackcarpathia
 
-[Link do filmu w Google Drive](https://drive.google.com/file/d/1EKkZkYA_v2MM8JoqV5MYg5IBGfFCT54T/view?usp=sharing)
+[![Alt Text](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://drive.google.com/uc?export=download&id=FILE_ID)
+
 
 
 Flex your gray matter and show that you're able to overcome our challenges.
